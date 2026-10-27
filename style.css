@@ -380,3 +380,7 @@ img {
 .address iframe{
   margin-top: 20px;
 }
+
+.blog .list .title a {
+  color: #333 !important;
+}
